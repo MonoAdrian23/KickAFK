@@ -1,0 +1,6 @@
+---
+name: KickAFK
+version: 0.0.1
+main: MonoAdrian23\KickAFK\Main
+api: 3.14.0
+...

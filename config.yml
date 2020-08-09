@@ -1,0 +1,4 @@
+---
+time: 600 #afk time in seconds
+kick_message: "§l§o§4Du wurdest gekickt da du mehr als 10 Minuten AFK warst!"
+...
